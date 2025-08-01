@@ -1,4 +1,8 @@
-## Hi there 👋
+![Hello gif](https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif)
+
+## Hi there 👋 My name is Sumrit!
+
+I'm a new computer science grad from Simon Fraser University.
 
 <!--
 **sumritsanghera/sumritsanghera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
