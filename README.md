@@ -2,7 +2,7 @@
 
 ## Hi there 👋 My name is Sumrit!
 
-I'm a new computer science grad from Simon Fraser University.
+I'm a new computer science grad from Simon Fraser University. I love to solve problems and I'm a fan of the Vancouver Canucks!
 
 <!--
 **sumritsanghera/sumritsanghera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
